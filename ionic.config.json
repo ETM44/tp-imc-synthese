@@ -1,0 +1,7 @@
+{
+  "name": "tp-imc-synthese",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
